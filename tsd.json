@@ -4,5 +4,39 @@
   "ref": "master",
   "path": "typings",
   "bundle": "typings/tsd.d.ts",
-  "installed": {}
+  "installed": {
+    "moment/moment.d.ts": {
+      "commit": "33bf97ba1e33fcb11f74f191f3426d16e779fdbd"
+    },
+    "restangular/restangular.d.ts": {
+      "commit": "33bf97ba1e33fcb11f74f191f3426d16e779fdbd"
+    },
+    "signalr/signalr.d.ts": {
+      "commit": "33bf97ba1e33fcb11f74f191f3426d16e779fdbd"
+    },
+    "breeze/breeze.d.ts": {
+      "commit": "33bf97ba1e33fcb11f74f191f3426d16e779fdbd"
+    },
+    "gruntjs/gruntjs.d.ts": {
+      "commit": "33bf97ba1e33fcb11f74f191f3426d16e779fdbd"
+    },
+    "jasmine/jasmine.d.ts": {
+      "commit": "33bf97ba1e33fcb11f74f191f3426d16e779fdbd"
+    },
+    "mocha/mocha.d.ts": {
+      "commit": "33bf97ba1e33fcb11f74f191f3426d16e779fdbd"
+    },
+    "chai/chai.d.ts": {
+      "commit": "33bf97ba1e33fcb11f74f191f3426d16e779fdbd"
+    },
+    "tape/tape.d.ts": {
+      "commit": "33bf97ba1e33fcb11f74f191f3426d16e779fdbd"
+    },
+    "requirejs/require.d.ts": {
+      "commit": "33bf97ba1e33fcb11f74f191f3426d16e779fdbd"
+    },
+    "browserify/browserify.d.ts": {
+      "commit": "33bf97ba1e33fcb11f74f191f3426d16e779fdbd"
+    }
+  }
 }
